@@ -1,6 +1,6 @@
 # TWEETDECK LAYOUT
 
-https://github.com/bluee313/rtesgfdg/blob/main/TWEETDECCK%20EJEMPLO.png
+Screenshot de ejemplo: https://github.com/bluee313/rtesgfdg/blob/main/TWEETDECCK%20EJEMPLO.png
 
 ## COLUMNAS <sub> (parecido al de twitter web) </sub>
 - Primera columna de 350px de ancho
