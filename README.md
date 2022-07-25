@@ -21,4 +21,5 @@
 
 ## Vídeos y Gifs
 - Altura general de 550px
-**No se aplica a ** imágenes sueltas 
+
+**No se aplica a** imágenes sueltas 
