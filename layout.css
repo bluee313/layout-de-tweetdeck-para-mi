@@ -25,6 +25,7 @@ html.dark .media-grid-container {
 
 html.dark .quoted-tweet .media-size-medium, html.dark .quoted-tweet .media-size-small {
   height: 350px !important;
+  --btd-thumb-height: 350px !important;
 }
 
 .js-stream-item-content {
