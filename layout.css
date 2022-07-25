@@ -1,0 +1,47 @@
+.js-column.column:nth-child(1) {
+  width: 350px !important;
+}
+
+.js-column.column:nth-child(2) {
+  width: 650px !important;
+}
+.js-column.column:nth-child(3) {
+  width: 550px !important;
+}
+
+html.dark .quoted-tweet {
+    border: 1px solid;
+    font-size: 16px;
+    border-color: #ff1261;
+    color: #ffffff;
+}
+
+html.dark .media-grid-2 {
+  height: 350px !important;
+}
+html.dark .media-grid-container {
+  height: 350px !important;
+}
+
+html.dark .quoted-tweet .media-size-medium, html.dark .quoted-tweet .media-size-small {
+  height: 350px !important;
+}
+
+.js-stream-item-content {
+   border: 1px solid;
+    border-color: #2c2c2c;
+}
+
+html.dark .tweet-text {
+  Font-size: 16px
+}
+html.dark .account-link .fullname {
+  Font-size: 17px
+}
+html.dark .account-link .username{
+  Font-size: 16px
+}
+
+html.dark .is-wide-columns .media-size-medium {
+    height: 500px;
+}
