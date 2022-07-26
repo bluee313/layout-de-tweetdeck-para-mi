@@ -2,7 +2,7 @@
 
 Screenshot de ejemplo: https://github.com/bluee313/rtesgfdg/blob/main/TWEETDECCK%20EJEMPLO.png
 
-Pegar layout.css en las "custom css" de BetterTweetDeck para usar
+Pegar layout.css en las "custom css" de BetterTweetDeck para que se aplique
 
 ## COLUMNAS <sub> (parecido al de twitter web) </sub>
 - Primera columna de 350px de ancho
