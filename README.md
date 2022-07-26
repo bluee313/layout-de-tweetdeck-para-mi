@@ -1,6 +1,8 @@
 # TWEETDECK LAYOUT
 
-Screenshot de ejemplo: https://github.com/bluee313/rtesgfdg/blob/main/TWEETDECCK%20EJEMPLO.png
+Screenshot de ejemplo: https://github.com/bluee313/rtesgfdg/blob/main/TWEETDECCK%20EJEMPLO.png 
+
+(update: ahora no ocupan tanto espacio, las alturas ahora son de entre 350px a 500px)
 
 Pegar layout.css en las "custom css" de BetterTweetDeck para que se aplique
 
