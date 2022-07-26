@@ -24,7 +24,7 @@ html.dark .media-grid-container {
 }
 
 html.dark .quoted-tweet .media-size-medium, html.dark .quoted-tweet .media-size-small {
-  height: 350px !important;
+  height: 200px !important;
   --btd-thumb-height: 350px !important;
   background-size: contain;
 }
@@ -45,5 +45,11 @@ html.dark .account-link .username{
 }
 
 html.dark .is-wide-columns .media-size-medium {
-    height: 400px;
+   height: 350px;
+   max-height: 500px;
+   background-size: contain
+}
+
+mediaPreview {
+background-size: 100% auto;
 }
