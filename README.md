@@ -13,7 +13,7 @@ Pegar layout.css en las "custom css" de BetterTweetDeck para usar
 ## QRTs
 - Bordes en fucsia (#ff1261)
 - Color de la letra del tweet que se quotea: blanco (#ffffff)
-- Altura de los QRTs de 350px en general
+- Altura del contenido de los QRTs de 200px (imágenes, vídeos, gifs) (se ajustan para que se vean completos)
 
 ## LETRA
 - De los Tweets a 16px
@@ -23,7 +23,6 @@ Pegar layout.css en las "custom css" de BetterTweetDeck para usar
 ## BORDES
 - Color #2c2c2c
 
-## Vídeos y Gifs
-- Altura general de 550px
-
-**No se aplica a** imágenes sueltas 
+## Vídeos, Imágenes y Gifs
+- Altura de 350px a 500px
+- Se ajustan para que se vean completos respetando la altura mínima(350px) y máxima(500px)
