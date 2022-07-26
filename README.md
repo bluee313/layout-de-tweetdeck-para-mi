@@ -2,6 +2,8 @@
 
 Screenshot de ejemplo: https://github.com/bluee313/rtesgfdg/blob/main/TWEETDECCK%20EJEMPLO.png 
 
+->MEDIA PREVIEW SIZE utilizada en cada columna (en "preferencias"): MEDIUM
+
 (update: ahora los vid/gifs/fotos no ocupan tanto espacio como en el screenshot, las alturas son de entre 350px a 500px)
 
 Pegar layout.css en las "custom css" de BetterTweetDeck para que se aplique
