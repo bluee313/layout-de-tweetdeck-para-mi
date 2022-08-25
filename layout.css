@@ -53,3 +53,7 @@ html.dark .is-wide-columns .media-size-medium {
 mediaPreview {
 background-size: 100% auto;
 }
+
+html.dark .media-grid-container.multiple-avatar-grid {
+ height: 59.93px !important;
+}
